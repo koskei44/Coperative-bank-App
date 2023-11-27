@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CopCashApp</string>
+    <string name="baseURIAPI">https://dummyjson.com</string>
+</resources>
